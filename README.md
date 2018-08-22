@@ -1,5 +1,5 @@
 # AwesomeApp
-Expedia Hackathon
+Hackathon
 
 python -m http.server 
 
